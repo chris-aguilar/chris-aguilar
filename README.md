@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chris-aguilar
-- 👀 I’m interested in data analysis and predictive modeling, mainly with R but also learning in Python.
-- 🌱 I’m currently learning Git.
-- 💞️ I’m looking to collaborate on fun data analysis projects.
+- 👀 I’m interested in data engineering, and have a background in predictive modeling.
+- 🌱 I’m currently learning about data engineering through the Data Engineering in Python career track on DataCamp!
+- 💞️ I’m looking to pivot into the Data Engineering field.
 - 📫 Hit me up on [LinkedIn!](https://www.linkedin.com/in/chrisaguilar0/)
 
 <!---
